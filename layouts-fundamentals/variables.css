@@ -1,0 +1,42 @@
+:root {
+  /* REM BASE: 1rem = 10px (html font-size: 62.5%) */
+
+  /* FONT FAMILY */
+  --font-family: sans-serif;
+
+  /* SPACING */
+  --spacing-1: 0.4rem;
+  --spacing-2: 0.8rem;
+  --spacing-3: 1.2rem;
+  --spacing-4: 1.6rem;
+  --spacing-5: 2.4rem;
+  --spacing-6: 3.2rem;
+  --spacing-7: 4.8rem;
+  --spacing-8: 6.4rem;
+
+  /* FONT SIZES */
+  --font-size-xs: 1.2rem;
+  --font-size-sm: 1.4rem;
+  --font-size-base: 1.6rem;
+  --font-size-lg: 1.8rem;
+  --font-size-xl: 2rem;
+  --font-size-2xl: 2.4rem;
+  --font-size-3xl: 3rem;
+  --font-size-4xl: 4rem;
+
+  /* BACKGROUND */
+  --color-bg: #0b1426;
+  --color-bg-secondary: #070d19;
+
+  /* TEXT */
+  --color-text: #c3cddf;
+  --color-heading: #82acff;
+  --color-white: #fff;
+
+  /* BORDER */
+  --color-border: #009fe3;
+
+  /* LINKS */
+  --color-link: #dcebff;
+  --color-link-hover: #00bfff;
+}
